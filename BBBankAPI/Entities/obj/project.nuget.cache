@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C/CWnoVBY9q7Cq+7hYYfOfTz1j25FKOE1o3RXKO7MhUpn/PR4qmL5eRFxwRqz4ftuucV2dQyfbbAKBKnUXJZuw==",
+  "dgSpecHash": "TT0DHUBzyght0FmBZp5xCvL7jiIg+5ntAY8zPQTLOSjvdFyHTLkUpVHCTsuX/w8J6BnUWHY14e5+otmmOq5deQ==",
   "success": true,
-  "projectFilePath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Entities\\Entities.csproj",
+  "projectFilePath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -564,11 +564,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Services\\Services.csproj",
+      "projectUniqueName": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Services\\Services.csproj",
+      "projectPath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\rajaa\\.nuget\\packages\\",
-      "outputPath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Services\\obj\\",
+      "outputPath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rajaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -585,11 +585,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Entities\\Entities.csproj"
+            "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Entities\\Entities.csproj"
             },
-            "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Infrastructure\\Infrastructure.csproj"
+            "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
