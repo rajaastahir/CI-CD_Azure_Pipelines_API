@@ -12,7 +12,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy(name: MyAllowSpecificOrigins,
                       builder =>
                       {
-                          builder.WithOrigins("http://localhost:4200" , "https://bbbankuitest.z13.web.core.windows.net/", "https://bbbankuiproduction.z13.web.core.windows.net/" )
+                          builder.WithOrigins("http://localhost:4200" , "https://bbbankuitest.z13.web.core.windows.net/")
                           .AllowAnyHeader()
                                                   .AllowAnyMethod();
                       });
