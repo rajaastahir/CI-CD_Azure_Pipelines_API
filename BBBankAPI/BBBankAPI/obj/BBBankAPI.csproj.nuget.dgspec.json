@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\BBBankAPI\\BBBankAPI.csproj": {}
+    "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\BBBankAPI\\BBBankAPI.csproj": {}
   },
   "projects": {
-    "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\BBBankAPI\\BBBankAPI.csproj": {
+    "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\BBBankAPI\\BBBankAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\BBBankAPI\\BBBankAPI.csproj",
+        "projectUniqueName": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\BBBankAPI\\BBBankAPI.csproj",
         "projectName": "BBBankAPI",
-        "projectPath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\BBBankAPI\\BBBankAPI.csproj",
+        "projectPath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\BBBankAPI\\BBBankAPI.csproj",
         "packagesPath": "C:\\Users\\rajaa\\.nuget\\packages\\",
-        "outputPath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\BBBankAPI\\obj\\",
+        "outputPath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\BBBankAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rajaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Services\\Services.csproj": {
-                "projectPath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Services\\Services.csproj"
+              "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Services\\Services.csproj": {
+                "projectPath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Services\\Services.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Entities\\Entities.csproj": {
+    "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Entities\\Entities.csproj",
+        "projectPath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\rajaa\\.nuget\\packages\\",
-        "outputPath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Entities\\obj\\",
+        "outputPath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rajaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -119,14 +119,14 @@
         }
       }
     },
-    "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\rajaa\\.nuget\\packages\\",
-        "outputPath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Infrastructure\\obj\\",
+        "outputPath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rajaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -143,8 +143,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Entities\\Entities.csproj"
+              "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Entities\\Entities.csproj"
               }
             }
           }
@@ -183,14 +183,14 @@
         }
       }
     },
-    "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Services\\Services.csproj": {
+    "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Services\\Services.csproj",
+        "projectPath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\rajaa\\.nuget\\packages\\",
-        "outputPath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Services\\obj\\",
+        "outputPath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rajaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -207,11 +207,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Entities\\Entities.csproj"
+              "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Entities\\Entities.csproj"
               },
-              "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\source code\\PT_CI-CD_Azure_Pipelines_for_API\\BBBankAPI\\Infrastructure\\Infrastructure.csproj"
+              "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\source code\\CI-CD_Azure_Pipelines_API\\BBBankAPI\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
